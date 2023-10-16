@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 800px;
+    align-content: center;
+    margin-top: 50px;
+}
